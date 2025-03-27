@@ -6,9 +6,7 @@
 -  🌱 Currently exploring **UI/UX design** and **web development**.
 
  🔧 Tech Stack  
-- **Languages:** Java, HTML, CSS,  
-- **Tools:** IntelliJ IDEA, Figma, MySQL  
-- **Focus Areas:** UI/UX and web design 
+-  Java, HTML, CSS, MYSQL  
 
  📬 Connect with Me  
 - Let’s create something amazing together!  
