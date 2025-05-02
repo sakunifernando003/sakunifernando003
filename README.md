@@ -11,7 +11,7 @@
  📬 Connect with Me  
 - Let’s create something amazing together!  
 - **LinkedIn:** [www.linkedin.com/in/sakuni-fernando-69733231a]  
-- **Portfolio:** [#]  
+- **Portfolio:** [https://sakunifernando003.github.io/personal-website1/]  
 
 🌸 **Thanks for stopping by!** 🌸
 
