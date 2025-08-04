@@ -4,13 +4,17 @@
 <p align="center">Welcome to my little corner of GitHub!<br>
 I'm a <strong>Software Engineering student</strong> passionate about technology, design, and creating meaningful projects.</p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTNzZmx1YXo3OGI4ajAzbzFndnM2eXg3ZXdoZ2U0amwwbnJzeGNmeSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L1R1tvI9svkIWwpVYr/giphy.gif" width="150" alt="Cute waving bear gif" />
+</p>
+
 ---
 
 ## ✨ About Me
 
 - 🌱 Currently exploring **UI/UX design** and **web development**
 - 💻 Passionate about creative problem-solving and clean design
-- 🐾 Pet lover | 🌙 Moon enthusiast | ☕ Coffee > Tea
+- 🐾 Pet lover | 🌙 Moon enthusiast | ☕ Tea > Coffee
 
 ---
 
@@ -32,12 +36,13 @@ I'm a <strong>Software Engineering student</strong> passionate about technology,
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Stats & Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sakunifernando003&show_icons=true&theme=radical" alt="Sakuni's GitHub stats" width="50%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sakunifernando003&show_icons=true&theme=radical" width="48%"/>
+  <img src="https://streak-stats.demolab.com?user=sakunifernando003&theme=radical&date_format=M%20j%5B%2C%20Y%5D" width="48%"/>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakunifernando003&layout=compact&theme=radical" alt="Top languages" width="40%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakunifernando003&layout=compact&theme=radical" width="40%"/>
 </p>
 
 ---
