@@ -10,7 +10,7 @@ I'm a <strong>Software Engineering student</strong> passionate about technology,
 
 - 🌱 Currently exploring **UI/UX design** and **web development**
 - 💻 Passionate about creative problem-solving and clean design
-- 🐾 Pet lover | 🌙 Moon enthusiast | ☕ Tea > Coffee
+- 🐾 Pet lover | 🌙 Moon enthusiast | ☕ Coffee > Tea
 
 ---
 
