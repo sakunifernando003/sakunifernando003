@@ -3,14 +3,13 @@
 <h1 align="center">🌸 Hi, I'm Sakuni! 🌸</h1>
 
 <p align="center">
-  <img src="YOUR_GIF_URL_HERE" width="180" alt="Cinnamoroll calm aesthetic" />
+  <img src="https://media.tenor.com/Ug6AG1o0SpIAAAAi/peach-goma-cute.gif" width="160" alt="Cute bouncing chick gif" />
 </p>
 
 <p align="center">
   Welcome to my little corner of GitHub!<br>
   I'm a <strong>Software Engineering student</strong> passionate about technology, design, and creating meaningful projects.
 </p>
-
 
 
 ---
