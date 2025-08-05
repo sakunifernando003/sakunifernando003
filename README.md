@@ -3,8 +3,9 @@
 <h1 align="center">🌸 Hi, I'm Sakuni! 🌸</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/MC6eSuX6xV0Dq/giphy.gif" width="180" alt="Cinnamoroll floating" />
+  <img src="https://i.pinimg.com/originals/aa/ff/aa/ffffffffaa.gif" width="180" alt="Cinnamoroll riding pastel unicorn" />
 </p>
+
 
 <p align="center">
   Welcome to my little corner of GitHub!<br>
