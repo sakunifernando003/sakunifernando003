@@ -3,7 +3,7 @@
 <h1 align="center">🌸 Hi, I'm Sakuni! 🌸</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xThtaaoxRz2I2iW1Ha/giphy.gif" width="180" alt="Cinnamoroll flying calmly" />
+  <img src="https://media.giphy.com/media/MC6eSuX6xV0Dq/giphy.gif" width="180" alt="Cinnamoroll floating" />
 </p>
 
 <p align="center">
