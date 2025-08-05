@@ -3,7 +3,7 @@
 <h1 align="center">🌸 Hi, I'm Sakuni! 🌸</h1>
 
 <p align="center">
-  <img src="[https://raw.githubusercontent.com/mirukuu-dev/cdn-assets/main/cute-bunny-waving.gif](https://userstyles.org/styles/261680/yuu-s-cinnamoroll-youtube-logo)" width="180" alt="Cute bunny waving" />
+  <img src="[[https://raw.githubusercontent.com/mirukuu-dev/cdn-assets/main/cute-bunny-waving.gif](https://userstyles.org/styles/261680/yuu-s-cinnamoroll-youtube-logo)](https://github.com/cdepanagoudra)" width="180" alt="Cute bunny waving" />
 </p>
 
 <p align="center">
