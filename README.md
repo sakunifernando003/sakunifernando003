@@ -1,14 +1,12 @@
 <!-- Profile README for Sakuni -->
 
+
 <h1 align="center">🌸 Hi, I'm Sakuni! 🌸</h1>
+<p align="center">Welcome to my little corner of GitHub!<br>
+I'm a <strong>Software Engineering student</strong> passionate about technology, design, and creating meaningful projects.</p>
 
 <p align="center">
-  <img src="[[[https://raw.githubusercontent.com/mirukuu-dev/cdn-assets/main/cute-bunny-waving.gif](https://userstyles.org/styles/261680/yuu-s-cinnamoroll-youtube-logo)](https://github.com/cdepanagoudra)" width="180" alt="Cute bunny waving](https://github.com/cdepanagoudra)" />
-</p>
-
-<p align="center">
-  Welcome to my little corner of GitHub!<br>
-  I'm a <strong>Software Engineering student</strong> passionate about technology, design, and creating meaningful projects.
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTNzZmx1YXo3OGI4ajAzbzFndnM2eXg3ZXdoZ2U0amwwbnJzeGNmeSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L1R1tvI9svkIWwpVYr/giphy.gif" width="150" alt="Cute waving bear gif" />
 </p>
 
 
