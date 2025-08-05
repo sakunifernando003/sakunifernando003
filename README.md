@@ -6,7 +6,8 @@ I'm a <strong>Software Engineering student</strong> passionate about technology,
 
 <p align="center">
   <p align="center">
-  <img src="https://media.giphy.com/media/xThtaaoxRz2I2iW1Ha/giphy.gif" width="180" alt="Cinnamoroll flying calmly" />
+ [ <img src="https://media.giphy.com/media/xThtaaoxRz2I2iW1Ha/giphy.gif" width="180" alt="Cinnamoroll flying calmly" />](https://media.giphy.com/media/jRf5fsn8G6YaogAWXN/giphy.gif
+)
 </p>
 
 </p>
