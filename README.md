@@ -1,16 +1,16 @@
 <!-- Profile README for Sakuni -->
 
 <h1 align="center">🌸 Hi, I'm Sakuni! 🌸</h1>
-<p align="center">Welcome to my little corner of GitHub!<br>
-I'm a <strong>Software Engineering student</strong> passionate about technology, design, and creating meaningful projects.</p>
 
 <p align="center">
-  <p align="center">
- [ <img src="https://media.giphy.com/media/xThtaaoxRz2I2iW1Ha/giphy.gif" width="180" alt="Cinnamoroll flying calmly" />](https://media.giphy.com/media/jRf5fsn8G6YaogAWXN/giphy.gif
-)
+  <img src="https://media.giphy.com/media/xThtaaoxRz2I2iW1Ha/giphy.gif" width="180" alt="Cinnamoroll flying calmly" />
 </p>
 
+<p align="center">
+  Welcome to my little corner of GitHub!<br>
+  I'm a <strong>Software Engineering student</strong> passionate about technology, design, and creating meaningful projects.
 </p>
+
 
 ---
 
