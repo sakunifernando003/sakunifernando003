@@ -5,7 +5,10 @@
 I'm a <strong>Software Engineering student</strong> passionate about technology, design, and creating meaningful projects.</p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTNzZmx1YXo3OGI4ajAzbzFndnM2eXg3ZXdoZ2U0amwwbnJzeGNmeSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L1R1tvI9svkIWwpVYr/giphy.gif" width="150" alt="Cute waving bear gif" />
+  <p align="center">
+  <img src="https://media.giphy.com/media/xThtaaoxRz2I2iW1Ha/giphy.gif" width="180" alt="Cinnamoroll flying calmly" />
+</p>
+
 </p>
 
 ---
